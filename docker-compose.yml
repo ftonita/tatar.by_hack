@@ -1,0 +1,50 @@
+version: "3.7"
+
+x-service: &base-service
+  stdin_open: true
+  tty: true
+  networks:
+    - default
+
+x-volumes-bot: &bot-volumes 
+  - './:/bot'
+
+x-volumes-db: &database-volumes
+  - 'db_data:/var/lib/postgresql/data'
+
+
+services:
+  bot:
+    <<: *base-service
+    build:
+      # context: bot
+      dockerfile: Dockerfile
+    environment:
+      - APP=bot
+    ports:
+      - '443:443'
+      - '80:80'
+      - '587:587' # mailer
+    volumes: *bot-volumes
+    env_file:
+      - .env
+    depends_on:
+      - db
+    command: bash scripts/run.sh
+
+  db:
+    <<: *base-service
+    image: 'postgres:15.3-alpine3.18'
+    ports:
+      - '5432:5432'
+    env_file:
+      - .env
+    volumes: *database-volumes
+
+
+volumes:
+  db_data:
+
+
+networks:
+  default:

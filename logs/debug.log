@@ -1,0 +1,152 @@
+2023-09-09T10:58:32.826587+0300 | INFO | database:create_tables:56 | DB tables created
+2023-09-09T10:58:32.898091+0300 | INFO | __main__:startup:21 | Bot started
+2023-09-09T10:58:55.216862+0300 | INFO | __main__:shutdown:25 | Bot finished
+2023-09-09T10:58:57.804201+0300 | INFO | database:create_tables:56 | DB tables created
+2023-09-09T10:58:57.893652+0300 | INFO | __main__:startup:12 | Bot started
+2023-09-09T11:08:19.265295+0300 | INFO | __main__:shutdown:16 | Bot finished
+2023-09-09T11:08:23.070005+0300 | INFO | database:create_tables:56 | DB tables created
+2023-09-09T11:08:23.217617+0300 | INFO | __main__:startup:12 | Bot started
+2023-09-09T11:09:32.382242+0300 | INFO | __main__:shutdown:16 | Bot finished
+2023-09-09T11:09:35.199341+0300 | INFO | database:create_tables:56 | DB tables created
+2023-09-09T11:09:35.328069+0300 | INFO | __main__:startup:12 | Bot started
+2023-09-09T13:45:56.023979+0300 | INFO | __main__:shutdown:16 | Bot finished
+2023-09-09T13:45:59.044171+0300 | INFO | __main__:shutdown:16 | Bot finished
+2023-09-09T13:50:19.485545+0300 | INFO | __main__:shutdown:16 | Bot finished
+2023-09-09T13:50:43.491685+0300 | INFO | database:create_tables:56 | DB tables created
+2023-09-09T13:50:43.562295+0300 | INFO | __main__:startup:12 | Bot started
+2023-09-09T16:24:04.389093+0300 | INFO | __main__:shutdown:16 | Bot finished
+2023-09-09T16:43:12.074580+0300 | INFO | database:create_tables:56 | DB tables created
+2023-09-09T16:43:12.256968+0300 | INFO | __main__:startup:12 | Bot started
+2023-09-09T16:44:05.398193+0300 | INFO | __main__:shutdown:16 | Bot finished
+2023-09-09T16:44:08.279489+0300 | INFO | database:create_tables:56 | DB tables created
+2023-09-09T16:44:08.420028+0300 | INFO | __main__:startup:12 | Bot started
+2023-09-09T16:44:27.855155+0300 | INFO | __main__:shutdown:16 | Bot finished
+2023-09-09T16:44:30.332964+0300 | INFO | database:create_tables:56 | DB tables created
+2023-09-09T16:44:30.444039+0300 | INFO | __main__:startup:12 | Bot started
+2023-09-09T16:44:54.341545+0300 | INFO | __main__:shutdown:16 | Bot finished
+2023-09-09T16:44:56.906472+0300 | INFO | database:create_tables:56 | DB tables created
+2023-09-09T16:44:57.080429+0300 | INFO | __main__:startup:12 | Bot started
+2023-09-09T16:50:55.408351+0300 | INFO | __main__:shutdown:16 | Bot finished
+2023-09-09T16:50:58.220339+0300 | INFO | database:create_tables:56 | DB tables created
+2023-09-09T16:50:58.356672+0300 | INFO | __main__:startup:12 | Bot started
+2023-09-09T16:53:39.161245+0300 | INFO | __main__:shutdown:16 | Bot finished
+2023-09-09T16:53:53.894158+0300 | INFO | database:create_tables:56 | DB tables created
+2023-09-09T16:53:53.962513+0300 | INFO | __main__:startup:12 | Bot started
+2023-09-09T16:55:38.674021+0300 | INFO | __main__:shutdown:16 | Bot finished
+2023-09-09T16:55:41.195403+0300 | INFO | database:create_tables:56 | DB tables created
+2023-09-09T16:55:41.319838+0300 | INFO | __main__:startup:12 | Bot started
+2023-09-09T16:56:12.722601+0300 | INFO | __main__:shutdown:16 | Bot finished
+2023-09-09T16:56:15.198318+0300 | INFO | database:create_tables:56 | DB tables created
+2023-09-09T16:56:15.298148+0300 | INFO | __main__:startup:12 | Bot started
+2023-09-09T16:57:08.335263+0300 | INFO | __main__:shutdown:16 | Bot finished
+2023-09-09T16:57:11.247360+0300 | INFO | database:create_tables:56 | DB tables created
+2023-09-09T16:57:11.373650+0300 | INFO | __main__:startup:12 | Bot started
+2023-09-09T17:02:09.838242+0300 | INFO | __main__:shutdown:16 | Bot finished
+2023-09-09T17:02:31.621450+0300 | INFO | database:create_tables:56 | DB tables created
+2023-09-09T17:02:31.696599+0300 | INFO | __main__:startup:12 | Bot started
+2023-09-09T17:09:43.344061+0300 | INFO | __main__:shutdown:16 | Bot finished
+2023-09-09T17:09:51.582019+0300 | INFO | database:create_tables:56 | DB tables created
+2023-09-09T17:09:51.735226+0300 | INFO | __main__:startup:12 | Bot started
+2023-09-09T17:09:53.245200+0300 | INFO | __main__:shutdown:16 | Bot finished
+2023-09-09T17:13:48.031518+0300 | INFO | __main__:shutdown:16 | Bot finished
+2023-09-09T17:14:30.734448+0300 | INFO | database:create_tables:56 | DB tables created
+2023-09-09T17:14:30.825062+0300 | INFO | __main__:startup:12 | Bot started
+2023-09-09T20:47:57.366303+0300 | INFO | __main__:shutdown:16 | Bot finished
+2023-09-09T20:48:34.527714+0300 | INFO | database:create_tables:56 | DB tables created
+2023-09-09T20:48:34.690371+0300 | INFO | __main__:startup:12 | Bot started
+2023-09-10T02:03:11.669149+0300 | INFO | __main__:shutdown:16 | Bot finished
+2023-09-10T02:38:20.977532+0300 | INFO | database:create_tables:56 | DB tables created
+2023-09-10T02:38:21.068719+0300 | INFO | __main__:startup:12 | Bot started
+2023-09-10T02:38:22.595333+0300 | INFO | __main__:shutdown:16 | Bot finished
+2023-09-10T03:26:05.178580+0300 | INFO | __main__:shutdown:16 | Bot finished
+2023-09-10T03:26:20.111029+0300 | INFO | database:create_tables:56 | DB tables created
+2023-09-10T03:26:20.178834+0300 | INFO | __main__:startup:12 | Bot started
+2023-09-10T03:39:14.849442+0300 | INFO | __main__:shutdown:16 | Bot finished
+2023-09-10T03:39:17.688428+0300 | INFO | database:create_tables:56 | DB tables created
+2023-09-10T03:39:17.818854+0300 | INFO | __main__:startup:12 | Bot started
+2023-09-10T03:41:17.534908+0300 | INFO | __main__:shutdown:16 | Bot finished
+2023-09-10T03:41:19.722580+0300 | INFO | database:create_tables:56 | DB tables created
+2023-09-10T03:41:19.795933+0300 | INFO | __main__:startup:12 | Bot started
+2023-09-10T03:43:39.394180+0300 | INFO | __main__:shutdown:16 | Bot finished
+2023-09-10T03:43:41.890101+0300 | INFO | database:create_tables:56 | DB tables created
+2023-09-10T03:43:41.975182+0300 | INFO | __main__:startup:12 | Bot started
+2023-09-10T03:44:34.100353+0300 | INFO | __main__:shutdown:16 | Bot finished
+2023-09-10T03:44:36.707105+0300 | INFO | database:create_tables:56 | DB tables created
+2023-09-10T03:44:36.777978+0300 | INFO | __main__:startup:12 | Bot started
+2023-09-10T03:45:39.038258+0300 | INFO | __main__:shutdown:16 | Bot finished
+2023-09-10T03:45:41.317293+0300 | INFO | database:create_tables:56 | DB tables created
+2023-09-10T03:45:41.384697+0300 | INFO | __main__:startup:12 | Bot started
+2023-09-10T03:46:42.434829+0300 | INFO | __main__:shutdown:16 | Bot finished
+2023-09-10T03:46:44.621837+0300 | INFO | database:create_tables:56 | DB tables created
+2023-09-10T03:46:44.698961+0300 | INFO | __main__:startup:12 | Bot started
+2023-09-10T03:47:24.808027+0300 | INFO | __main__:shutdown:16 | Bot finished
+2023-09-10T11:07:27.958905+0300 | INFO | __main__:shutdown:16 | Bot finished
+2023-09-10T11:08:12.274483+0300 | INFO | database:create_tables:56 | DB tables created
+2023-09-10T11:08:12.341266+0300 | INFO | __main__:startup:12 | Bot started
+2023-09-10T11:09:40.321240+0300 | INFO | __main__:shutdown:16 | Bot finished
+2023-09-10T11:09:42.873352+0300 | INFO | database:create_tables:56 | DB tables created
+2023-09-10T11:09:42.939400+0300 | INFO | __main__:startup:12 | Bot started
+2023-09-10T11:10:20.159966+0300 | INFO | __main__:shutdown:16 | Bot finished
+2023-09-10T11:10:22.547709+0300 | INFO | database:create_tables:56 | DB tables created
+2023-09-10T11:10:22.661653+0300 | INFO | __main__:startup:12 | Bot started
+2023-09-10T11:11:58.598728+0300 | INFO | __main__:shutdown:16 | Bot finished
+2023-09-10T11:12:01.244920+0300 | INFO | database:create_tables:56 | DB tables created
+2023-09-10T11:12:01.319673+0300 | INFO | __main__:startup:12 | Bot started
+2023-09-10T11:14:55.339305+0300 | INFO | __main__:shutdown:16 | Bot finished
+2023-09-10T11:14:57.752794+0300 | INFO | database:create_tables:56 | DB tables created
+2023-09-10T11:14:57.829155+0300 | INFO | __main__:startup:12 | Bot started
+2023-09-10T11:16:29.336284+0300 | INFO | __main__:shutdown:16 | Bot finished
+2023-09-10T11:16:32.000596+0300 | INFO | database:create_tables:56 | DB tables created
+2023-09-10T11:16:32.101697+0300 | INFO | __main__:startup:12 | Bot started
+2023-09-10T11:17:06.871398+0300 | INFO | __main__:shutdown:16 | Bot finished
+2023-09-10T11:17:09.729565+0300 | INFO | database:create_tables:56 | DB tables created
+2023-09-10T11:17:09.800060+0300 | INFO | __main__:startup:12 | Bot started
+2023-09-10T11:18:47.564980+0300 | INFO | __main__:shutdown:16 | Bot finished
+2023-09-10T11:18:50.820410+0300 | INFO | database:create_tables:56 | DB tables created
+2023-09-10T11:18:50.893402+0300 | INFO | __main__:startup:12 | Bot started
+2023-09-10T11:19:29.591107+0300 | INFO | __main__:shutdown:16 | Bot finished
+2023-09-10T11:19:32.129482+0300 | INFO | database:create_tables:56 | DB tables created
+2023-09-10T11:19:32.214335+0300 | INFO | __main__:startup:12 | Bot started
+2023-09-10T11:20:14.781663+0300 | INFO | __main__:shutdown:16 | Bot finished
+2023-09-10T11:20:17.367872+0300 | INFO | database:create_tables:56 | DB tables created
+2023-09-10T11:20:17.435421+0300 | INFO | __main__:startup:12 | Bot started
+2023-09-10T11:21:59.415289+0300 | INFO | __main__:shutdown:16 | Bot finished
+2023-09-10T11:22:01.590379+0300 | INFO | database:create_tables:56 | DB tables created
+2023-09-10T11:22:01.700588+0300 | INFO | __main__:startup:12 | Bot started
+2023-09-10T11:22:10.095885+0300 | INFO | __main__:shutdown:16 | Bot finished
+2023-09-10T11:22:12.217752+0300 | INFO | database:create_tables:56 | DB tables created
+2023-09-10T11:22:12.334473+0300 | INFO | __main__:startup:12 | Bot started
+2023-09-10T11:28:10.089354+0300 | INFO | __main__:shutdown:16 | Bot finished
+2023-09-10T11:28:12.750242+0300 | INFO | database:create_tables:56 | DB tables created
+2023-09-10T11:28:12.819770+0300 | INFO | __main__:startup:12 | Bot started
+2023-09-10T11:29:42.120392+0300 | INFO | __main__:shutdown:16 | Bot finished
+2023-09-10T11:31:04.090594+0300 | INFO | database:create_tables:56 | DB tables created
+2023-09-10T11:31:04.200815+0300 | INFO | __main__:startup:12 | Bot started
+2023-09-10T11:32:39.377411+0300 | INFO | __main__:shutdown:16 | Bot finished
+2023-09-10T11:32:41.812289+0300 | INFO | database:create_tables:56 | DB tables created
+2023-09-10T11:32:41.888764+0300 | INFO | __main__:startup:12 | Bot started
+2023-09-10T11:33:44.241993+0300 | INFO | __main__:shutdown:16 | Bot finished
+2023-09-10T11:33:46.746267+0300 | INFO | database:create_tables:56 | DB tables created
+2023-09-10T11:33:46.815902+0300 | INFO | __main__:startup:12 | Bot started
+2023-09-10T11:34:15.383245+0300 | INFO | __main__:shutdown:16 | Bot finished
+2023-09-10T11:34:18.059209+0300 | INFO | database:create_tables:56 | DB tables created
+2023-09-10T11:34:18.178136+0300 | INFO | __main__:startup:12 | Bot started
+2023-09-10T11:57:57.810486+0300 | INFO | __main__:shutdown:16 | Bot finished
+2023-09-10T12:04:14.463241+0300 | INFO | database:create_tables:56 | DB tables created
+2023-09-10T12:04:14.556414+0300 | INFO | __main__:startup:12 | Bot started
+2023-09-10T12:04:41.810949+0300 | INFO | __main__:shutdown:16 | Bot finished
+2023-09-10T12:04:44.102071+0300 | INFO | database:create_tables:56 | DB tables created
+2023-09-10T12:04:44.240101+0300 | INFO | __main__:startup:12 | Bot started
+2023-09-10T12:06:42.767857+0300 | INFO | __main__:shutdown:16 | Bot finished
+2023-09-10T12:06:45.355300+0300 | INFO | database:create_tables:56 | DB tables created
+2023-09-10T12:06:45.427201+0300 | INFO | __main__:startup:12 | Bot started
+2023-09-10T12:07:39.683149+0300 | INFO | __main__:shutdown:16 | Bot finished
+2023-09-10T12:07:42.271334+0300 | INFO | database:create_tables:56 | DB tables created
+2023-09-10T12:07:42.400604+0300 | INFO | __main__:startup:12 | Bot started
+2023-09-10T12:17:20.652333+0300 | INFO | __main__:shutdown:16 | Bot finished
+2023-09-10T12:17:23.228384+0300 | INFO | database:create_tables:56 | DB tables created
+2023-09-10T12:17:23.329428+0300 | INFO | __main__:startup:12 | Bot started
+2023-09-10T12:18:08.929536+0300 | INFO | __main__:shutdown:16 | Bot finished
+2023-09-10T12:18:11.451424+0300 | INFO | database:create_tables:56 | DB tables created
+2023-09-10T12:18:11.516879+0300 | INFO | __main__:startup:12 | Bot started
+2023-09-10T12:24:12.034272+0300 | INFO | __main__:shutdown:16 | Bot finished
